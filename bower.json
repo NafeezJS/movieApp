@@ -1,0 +1,17 @@
+{
+  "name": "movieSales",
+  "version": "0.0.1",
+  "authors": [
+    ""
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.14",
+    "bootstrap": "~3.1.1"
+  }
+}
